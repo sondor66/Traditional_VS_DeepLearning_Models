@@ -1,2 +1,2 @@
 # Traditional_VS_DeepLearning_Models
-Traditional VS Deep Learning
+Workflow information is inside the jupyter notebook.
